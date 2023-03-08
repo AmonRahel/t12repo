@@ -1,0 +1,2 @@
+1) Próbáld meg elkészíteni azt a programozási tételt, ami a tömb elemiből a legkisebb illetve a legnagyobb elem értékét írja ki.
+2) Valamint azt is az adott elem, melyik tömb "indexen" található. 
